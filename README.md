@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @artespinas
-- 👀 I’m interested in developing program applications on effective and efficient data analysis, project management, and operations management.
+- 👀 I’m interested in developing program applications on efficient data analysis, project management, and operations management.
 - 🌱 I’m currently learning python, SQL, Java, C++, and other programming languages.
-- 💞️ I’m looking to collaborate on other people/groups that work on same applications that improve effectiveness and efficiency.
-- 📫 How to reach me : github.com/artespinas
+- 💞️ I’m looking to collaborate on other people/groups that work on same applications that improve efficiency.
+- 📫 How to reach me on https://github.com/artespinas / artespine@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
